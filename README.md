@@ -46,6 +46,5 @@ This collection is dedicated to exploring and solving various problems and chall
 ####    starts rotating around the building.
 ####    b. Use the mouse right button to disable animation.
 
-###  6. 
-####    a. Control camera coordinates to see 3D scene from different directions
+###  6.  Control camera coordinates to see 3D scene from different directions
 
