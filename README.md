@@ -6,13 +6,13 @@ This collection is dedicated to exploring and solving various problems and chall
 ## 3- Drawing A Circle Face Using Bresenham(Mid Point) Algorithm
 ## 4- Drawing A Number 8 Using midpoint circle drawing algorithm and the flood fill filling algorithm
 ## its Requiremets
-####     1- Create window application program
-####     2- Change the width of window to 1200 and height to 1200 
-####     3- Change the window background to black 
-####     4- Change the starting points (x , y) of window  to (15,15)
-####     5- Take 1 point from user by using mouse handling .
-####     6- Draw number (8) in English by using the entered point, where this point represents the center of the circle that represents the first part/half of the 8 number. 
-####     7- Make the radius of the circle as preconfigured with value: 50 and use the midpoint circle drawing algorithm and the flood fill filling algorithm to draw the 8 number and fill it with white color.
+#####     1- Create window application program
+#####     2- Change the width of window to 1200 and height to 1200 
+#####     3- Change the window background to black 
+#####     4- Change the starting points (x , y) of window  to (15,15)
+#####     5- Take 1 point from user by using mouse handling .
+#####     6- Draw number (8) in English by using the entered point, where this point represents the center of the circle that represents the first part/half of the 8 number. 
+#####     7- Make the radius of the circle as preconfigured with value: 50 and use the midpoint circle drawing algorithm and the flood fill filling algorithm to draw the 8 number and fill it with white color.
 ## 5- 3D OpenGL Project
 ## Requirements:
 
