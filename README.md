@@ -1,5 +1,5 @@
 # Computer-Graphics-Problems
-This collection is dedicated to exploring and solving various problems and challenges in the field of computer graphics. 
+This collection is dedicated to exploring and solving various problems and challenges in the field of computer graphics...
 
 ## 1- Drawing Line Using Simple DDA Algorithm
 ## 2- Draing Triangle Using Bresenham(Mid Point) Algorithm
